@@ -3,7 +3,7 @@ name = "comfyui-rvtools"
 description = "With this suit, you have a lot of nodes in one place to build your workflow."
 version = "1.0"
 license = { file = "LICENSE" }
-dependencies = ["deepdiff", "torch", "numpy", "Pillow", "pynvml"]
+dependencies = ["torch", "numpy", "Pillow", "pynvml"]
 
 [project.urls]
 Repository = "https://github.com/Rvage0815/ComfyUI-RvTools"
